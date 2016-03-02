@@ -1,6 +1,6 @@
-sudo: required
+#sudo: required
 language: cpp
-services: docker
+#services: docker
 notifications:
   email:
     on_success: change
